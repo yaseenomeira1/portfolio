@@ -1,9 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap');
 
-h1{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+:root{
+    /* colors lmfao */
+    --main-- : rgba(252,51,20,1);
+    --side-- : rgba(255,212,208,1);
+    --dark-- : rgba(31,31,31,1);
+    --darkgrey-- : rgba(141,141,141,1);
+    --mediumgrey-- : rgba(225,225,225,1);
+    --grey-- : rgba(247,247,247,1);
+    --white-- : rgba(255,255,255,1);
+
+    /* fonts and stf lol */
+
+    --bold-- : 700;
+    --normal-- : 400;
+    --font--: "Montserrat", sans-serif;
 }
